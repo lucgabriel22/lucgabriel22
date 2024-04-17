@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Olá, me chamo Lucas Gabriel!!</h1>
 
-<p align="center">Curso CC(Ciência da Computação). <strong>Meus focos de estudos é o Back End</strong>, Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê. No momento  utilizo hoje a linguagem Python, principalmente o framework Django. </p>&nbsp;
+<p align="center">Curso CC (Ciência da Computação). <strong>Meus focos de estudos é o Back End</strong>, Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê. No momento  utilizo hoje a linguagem Python, principalmente o framework Django. </p>&nbsp;
 
 <div align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=lucgabriel22&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
@@ -36,7 +36,7 @@
 
 <div> 
 <a href = "mailto:contato.lucasgabriel20182005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-gabriel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/lucas-gabriel-7295b7250/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
