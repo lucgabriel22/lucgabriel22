@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cb7e4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=042bfa&height=120&section=header"/>
 &nbsp;&nbsp;&nbsp;
 <h1 align="center">Olá, me chamo Lucas Gabriel!!</h1>
 
-<p align="center">Curso CC (Ciência da Computação). <strong>Meu focs de estudo é o Back End</strong>, Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê. No momento  utilizo a linguagem Python, principalmente o framework Django. </p>&nbsp;
+<p align="center">Curso CC (Ciência da Computação). <strong>Meu foco de estudo é o Back End</strong>, Extensionista do projeto Fábrica de Software da empresa UBTech/Unipê. No momento  utilizo a linguagem Python, principalmente o framework Django. </p>&nbsp;
 
 <div align="center">
     <img height="175em" src="https://github-readme-streak-stats.herokuapp.com?user=lucgabriel22&hide_border=true&locale=pt_BR&theme=dark" alt="GitHub Streak" />
@@ -42,4 +42,4 @@
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8cb7e4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=042bfa&height=120&section=footer"/>
